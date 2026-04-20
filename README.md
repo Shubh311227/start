@@ -1,4 +1,4 @@
-# start# DoorDelights (v1.0.0)
+# DoorDelights (v1.0.0)
 
 ## Overview
 This repository contains the source code for **DoorDelights**, a microservices-based application [1]. 
